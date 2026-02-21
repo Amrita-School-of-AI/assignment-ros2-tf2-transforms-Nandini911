@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>assignment_ros2_tf2_transforms</name>
+  <name>ros2_tf2</name>
   <version>0.0.0</version>
   <description>ROS2 TF2 transform broadcaster assignment</description>
 
